@@ -1,0 +1,10 @@
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\Proj2\PresentaoDB\PresentaoDB\bin\Debug\PresentaoDB.dacpac
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\Proj2\PresentaoDB\PresentaoDB\bin\Debug\PresentaoDB.dll
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\Proj2\PresentaoDB\PresentaoDB\bin\Debug\PresentaoDB.pdb
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\Proj2\PresentaoDB\PresentaoDB\obj\Debug\PresentaoDB.sqlprojAssemblyReference.cache
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\Proj2\PresentaoDB\PresentaoDB\obj\Debug\PresentaoDB.dll
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\Proj2\PresentaoDB\PresentaoDB\obj\Debug\PresentaoDB.pdb
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\Proj2\PresentaoDB\PresentaoDB\obj\Debug\Model.xml
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\Proj2\PresentaoDB\PresentaoDB\obj\Debug\refactor.xml
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\Proj2\PresentaoDB\PresentaoDB\obj\Debug\postdeploy.sql
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\Proj2\PresentaoDB\PresentaoDB\obj\Debug\predeploy.sql

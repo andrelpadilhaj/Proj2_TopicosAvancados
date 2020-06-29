@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0">
+  <Operation Name="Rename Refactor" Key="8e6d3fc5-31bb-4352-beca-6d1157a17acb" ChangeDateTime="06/22/2020 22:30:02" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Fornecedor].[ContaCorrente]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Fornecedor]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Agencia" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="839d20c1-b4a2-4b4d-b98d-2f962054a162" ChangeDateTime="06/22/2020 22:30:19" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Fornecedor].[Agencia]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Fornecedor]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Banco" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="d37bbaa9-f948-4b49-895f-ebe12d897237" ChangeDateTime="06/22/2020 22:30:21" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Fornecedor].[ContaCorrente]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Fornecedor]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Agencia" />
+  </Operation>
+</Operations>

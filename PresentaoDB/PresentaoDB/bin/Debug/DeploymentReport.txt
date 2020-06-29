@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Finalidade] (Table)
+       [dbo].[Fornecedor] (Table)
+       [dbo].[Marca] (Table)
+       [dbo].[Presente] (Table)
+       [dbo].[Tipo] (Table)
+       [dbo].[FK_Presente_ToTipo] (Foreign Key)
+       [dbo].[FK_Presente_ToMarca] (Foreign Key)
+       [dbo].[FK_Presente_ToFinalidade] (Foreign Key)
+       [dbo].[FK_Presente_ToFornecedor] (Foreign Key)
+
+** Supporting actions

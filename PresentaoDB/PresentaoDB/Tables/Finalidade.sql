@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Finalidade]
+(
+	[Id] INT NOT NULL CONSTRAINT [PK FINALIDADE] PRIMARY KEY, 
+    [Descricao] VARCHAR(50) NOT NULL, 
+    [Origem] VARCHAR(50) NOT NULL
+)
